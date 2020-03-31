@@ -1,0 +1,15 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class Where_is_Mouse : MonoBehaviour
+{
+    // Start is called before the first frame update
+    void Start()
+    {
+        Cursor.visible = true;
+    }
+
+   
+}
+
